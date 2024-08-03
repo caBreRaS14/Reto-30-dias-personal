@@ -16,13 +16,9 @@ function partido (){
                 Number(jugador2) = jugador2 + 10;
             }else{
                 jugador2 =+ 15; 
-
             }
-            
-            
         }
         console.log(jugador1 +" - "+ jugador2);
     }
 }
-
 partido()
